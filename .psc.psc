@@ -1,5 +1,5 @@
 Algoritmo añoBisiestoJhonySamboni
-	escribir "a"
+	escribir "año"
 	leer a
 	si a %4=0 entonces 
 		escribir "es bisiesto"
@@ -11,6 +11,8 @@ Algoritmo añoBisiestoJhonySamboni
 			escribir "si es bisiesto"
 		finsi
 	FinSi
+
+
 finsi
 FinAlgoritmo
 
